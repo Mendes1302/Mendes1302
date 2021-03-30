@@ -14,3 +14,4 @@ I believe that artificial intelligence will help our lives a lot and, because it
   * Data science
   * Statistic
   * Business
+  * RPA
