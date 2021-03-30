@@ -1,4 +1,4 @@
-# Lucas Mendes 
+# Lucas Mendes Barbosa
 
 
 ## Hi my name is Lucas Mendes 😎 and  do computer science 👨‍💻
