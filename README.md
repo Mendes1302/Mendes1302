@@ -1,7 +1,7 @@
 # Lucas Mendes 
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Barbosa-4682B4?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-barbosa-7bba83199 )](linkedin.com/in/lucas-barbosa-7bba83199) 
+[![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Barbosa-4682B4?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-barbosa-7bba83199 )](https://www.linkedin.com/in/lucas-barbosa-7bba83199/) 
 
 
 Enthusiast in data science and artificial intelligence
