@@ -1,8 +1,14 @@
-# Lucas Mendes Barbosa
+# Hi, I'm Lucas Mendes Barbosa
+<p style='text-align: justify;'> I'am enthusiast in data science and artificial intelligence and I believe that artificial intelligence will help our lives a lot and, because it is a great revolution, it will bring great questions about society, education, power and economy. And my area of interest are: </p>
+  
+ >   - Data science
+ >   - Statistic
+ >   - Business
+ >   - RPA
 
-## Hi, I'am enthusiast in data science and artificial intelligence and I believe that artificial intelligence will help our lives a lot and, because it is a great revolution, it will bring great questions about society, education, power and economy.
 
 <div>
+  <br>
   <a href="https://github.com/Mendes1302">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mendes1302&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mendes1302&layout=compact&langs_count=7&theme=dark"/>
@@ -31,13 +37,9 @@
   <a href="https://www.linkedin.com/in/lucas-mendes-barbosa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
-![Snake animation](https://github.com/Mendes1302/Mendes1302/blob/output/github-contribution-grid-snake.svg)
 
-## Area of interest
+  ![Snake animation](https://raw.githubusercontent.com/Mendes1302/Mendes1302/output/github-contribution-grid-snake.svg)
 
-  * Data science
-  * Statistic
-  * Business
-  * RPA
+
 
 
