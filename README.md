@@ -1,7 +1,3 @@
-Here’s a more casual version of your introduction with emojis:
-
----
-
 # Hey there! I'm Lucas Mendes Barbosa 🎉
 
 <p style='text-align: justify;'> I'm a passionate data science enthusiast 🚀 with a love for research and cool projects! During my academic journey, I dove into two major projects that really fueled my interest.
