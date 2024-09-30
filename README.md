@@ -1,10 +1,9 @@
 # Hi, I'm Lucas Mendes Barbosa
-<p style='text-align: justify;'> I'am enthusiast in data science and artificial intelligence and I believe that artificial intelligence will help our lives a lot and, because it is a great revolution, it will bring great questions about society, education, power and economy. And my area of interest are: </p>
-  
- >   - Data science
- >   - Statistic
- >   - Business
- >   - RPA
+<p style='text-align: justify;'> Throughout my academic journey, I participated in two key projects that fueled my interest in research within data science. The first was a scientific initiation research project titled "Application of Artificial Intelligence Techniques for Emotion Recognition in Music," which is set to be completed in September 2024. This work will be presented at conferences such as the XXXII Scientific Initiation Congress at Unicamp and achieved an accuracy of 82% (F1-Score) using classification algorithms in Python.
+
+In my undergraduate thesis (TCC), I developed the Music MoodAI website using JavaScript, HTML, and CSS, focusing on model explainability and data visualization via a Python (FastAPI) API.
+
+Professionally, I work at Liga Ventures, where I started as an intern and progressed to positions of greater responsibility over the past three years. During this journey, I contributed to the creation of a Data Lake, implemented data processing automations, and promoted a data-driven culture within the company, enhancing my skills in storytelling and open innovation.
 
 
 <div>
