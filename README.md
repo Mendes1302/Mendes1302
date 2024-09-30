@@ -10,13 +10,7 @@ On the professional side, I've been rocking it at **Liga Ventures** 🌟, where 
 
 </p>
 
-<div>
-  <br>
-  <a href="https://github.com/Mendes1302">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mendes1302&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mendes1302&layout=compact&langs_count=7&theme=dark"/>
-  </a>
-</div>
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Ubuntu" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain-wordmark.svg">
